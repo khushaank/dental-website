@@ -1,0 +1,20 @@
+/* TEAM */
+
+Name: Dr. Kapil Mehendiratta
+Role: Founder & Chief Dental Surgeon
+Qualification: BDS, MDS
+Contact: +91 94669 29129
+LinkedIn: linkedin.com/in/kapil-mehendiratta-00b8a1157
+Instagram: instagram.com/sohandentocosmetica
+From: Rewari, Haryana, India
+
+
+/* SITE */
+
+Last update: 2026-02-27
+Standards: HTML5, CSS3, ES6+
+Language: English
+Doctype: HTML5
+Fonts: Outfit (Google Fonts)
+Icons: Phosphor Icons
+Software: Git, GitHub Pages

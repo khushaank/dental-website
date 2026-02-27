@@ -1,0 +1,5 @@
+Contact: mailto:contact@sohandental.com
+Contact: tel:+919466929129
+Preferred-Languages: en, hi
+Canonical: https://www.sohandentalcosmeticcare.in/.well-known/security.txt
+Expires: 2027-02-27T00:00:00.000Z

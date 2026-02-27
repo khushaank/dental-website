@@ -1,0 +1,11 @@
+# Sohan Dental Clinic & Cosmetic Care — Rewari, Haryana
+# https://www.sohandentalcosmeticcare.in
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.sohandentalcosmeticcare.in/sitemap.xml
+
+# Host
+Host: https://www.sohandentalcosmeticcare.in

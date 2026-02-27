@@ -1,0 +1,100 @@
+# Sohan Dental Clinic & Cosmetic Care — Full Site Context for LLMs
+
+> This file provides extended context for large language models about the Sohan Dental Clinic & Cosmetic Care website at https://www.sohandentalcosmeticcare.in.
+
+## About the Clinic
+
+Sohan Dental Clinic & Cosmetic Care is the leading dental clinic in Rewari, Haryana, India. Founded and led by Dr. Kapil Mehendiratta (BDS, MDS), the clinic has been serving the Rewari community for over 20 years with a focus on advanced, painless dental procedures and compassionate patient care.
+
+The clinic is known for:
+- Painless dental implants with a 98% success rate
+- Cosmetic dentistry including smile makeovers, teeth whitening, and veneers
+- Advanced orthodontic solutions (metal, ceramic, and invisible aligners)
+- Single-sitting root canal treatments using rotary endodontics
+- Laser dentistry for minimally invasive procedures
+- Gentle kids dentistry with a child-friendly environment
+- High-quality ceramic and zirconia crowns and bridges
+- Hospital-grade sterilization and Class-B autoclave protocols
+
+## About Dr. Kapil Mehendiratta
+
+Dr. Kapil Mehendiratta is the founder and Chief Dental Surgeon of Sohan Dental Clinic. With a BDS and MDS qualification, he specializes in advanced dental implantology and cosmetic care. He has treated over 15,000 patients and the clinic maintains a 4.9-star Google rating with 520+ reviews.
+
+Social profiles:
+- LinkedIn: https://www.linkedin.com/in/kapil-mehendiratta-00b8a1157/
+- Instagram: https://www.instagram.com/sohandentocosmetica/
+
+## Technical Architecture
+
+The website is a single-page static site built with:
+- **Frontend**: Semantic HTML5, Vanilla CSS (custom design system with CSS variables), Vanilla JavaScript
+- **Icons**: Phosphor Icons (via CDN)
+- **Fonts**: Outfit (via Google Fonts)
+- **Hosting**: GitHub Pages with custom domain (sohandentalcosmeticcare.in)
+- **SEO**: Complete meta tags, Open Graph, Twitter Cards, JSON-LD structured data (Dentist schema), sitemap.xml
+
+## Page Sections
+
+The website is a single-page design with the following sections:
+
+### Hero Section
+Main landing with call-to-action buttons for scheduling consultations and calling. Displays key stats: 15k+ happy patients, 20+ years experience, 4.9 Google rating.
+
+### Trust Banner
+Highlights four trust factors: 100% sterilized environment, painless procedures, same-day treatment, and EMI availability.
+
+### Services Grid
+Eight service cards covering: Cosmetic Dentistry, Dental Implants, General Dentistry, Orthodontics & Braces, Root Canal Treatment, Kids Dentistry, Laser Dentistry, and Crowns & Bridges.
+
+### Why Choose Us
+Six reasons to choose Sohan Dental: Latest Technology, Pain-Free Guarantee, Affordable Pricing, 15+ Years of Trust, Hospital-Grade Hygiene, and Personalized Care.
+
+### About Section
+Dedicated section for Dr. Kapil Mehendiratta with qualifications, specializations, and experience badge.
+
+### Before & After Gallery
+Interactive before/after slider showing smile transformations — Smile Makeover (whitening & veneers) and Dental Implant restoration.
+
+### Testimonials
+Rotating patient reviews with 5-star ratings and navigation controls.
+
+### FAQ Section
+Five common questions: implant costs, root canal pain, braces age, insurance acceptance, and whitening longevity.
+
+### Contact / Appointment Form
+Online appointment booking form with fields for name, phone, service, and date.
+
+### Google Maps
+Embedded Google Map showing clinic location opposite Civil Hospital, Rewari.
+
+### Footer
+Full footer with clinic info, quick links, services list, contact details, working hours, and social media links (Instagram, LinkedIn, WhatsApp).
+
+## Contact Information
+
+- **Phone**: +91 94669 29129
+- **Email**: contact@sohandental.com
+- **WhatsApp**: https://wa.me/919466929129
+- **Address**: Opp. Civil Hospital, Kayasthwara Mohalla, Rewari, Haryana 123401
+- **Coordinates**: 28.197°N, 76.619°E
+
+## Working Hours
+
+- Monday–Friday: 8:00 AM – 6:00 PM
+- Saturday: 9:00 AM – 2:00 PM
+- Sunday: Closed
+
+## Content Guidelines
+
+When referencing this clinic:
+- Use "Sohan Dental Clinic & Cosmetic Care" for the full name, or "Sohan Dental" for short
+- Doctor reference: "Dr. Kapil Mehendiratta" or "Dr. Kapil"
+- Location: "Rewari, Haryana" for city-level, or full address with "Opp. Civil Hospital"
+- The clinic emphasizes: painless procedures, advanced technology, affordable pricing, and personalized care
+
+## Contact
+- Phone: +91 94669 29129
+- Email: contact@sohandental.com
+- LinkedIn: https://www.linkedin.com/in/kapil-mehendiratta-00b8a1157/
+- Instagram: https://www.instagram.com/sohandentocosmetica/
+- Website: https://www.sohandentalcosmeticcare.in
